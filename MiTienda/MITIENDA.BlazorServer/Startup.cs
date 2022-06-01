@@ -29,6 +29,7 @@ namespace MITIENDA.BlazorServer
             services.AddRazorPages();
             services.AddServerSideBlazor();
             services.AddSingleton<WeatherForecastService>();
+            //JaimeOyola - JOC
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
