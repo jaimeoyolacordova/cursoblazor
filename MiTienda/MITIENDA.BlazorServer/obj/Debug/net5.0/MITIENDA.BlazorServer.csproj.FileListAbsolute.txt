@@ -21,7 +21,6 @@ C:\Users\nessi\Documents\Visual Studio 2019\Projects\PROYECTO TIENDA\MiTienda\MI
 C:\Users\nessi\Documents\Visual Studio 2019\Projects\PROYECTO TIENDA\MiTienda\MITIENDA.BlazorServer\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
 C:\Users\nessi\Documents\Visual Studio 2019\Projects\PROYECTO TIENDA\MiTienda\MITIENDA.BlazorServer\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
 C:\Users\nessi\Documents\Visual Studio 2019\Projects\PROYECTO TIENDA\MiTienda\MITIENDA.BlazorServer\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
-C:\Users\nessi\Documents\Visual Studio 2019\Projects\PROYECTO TIENDA\MiTienda\MITIENDA.BlazorServer\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
 C:\Users\nessi\Documents\Visual Studio 2019\Projects\PROYECTO TIENDA\MiTienda\MITIENDA.BlazorServer\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
 C:\Users\nessi\Documents\Visual Studio 2019\Projects\PROYECTO TIENDA\MiTienda\MITIENDA.BlazorServer\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
 C:\Users\nessi\Documents\Visual Studio 2019\Projects\PROYECTO TIENDA\MiTienda\MITIENDA.BlazorServer\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
@@ -34,7 +33,6 @@ C:\Users\nessi\Documents\Visual Studio 2019\Projects\PROYECTO TIENDA\MiTienda\MI
 C:\Users\nessi\Documents\Visual Studio 2019\Projects\PROYECTO TIENDA\MiTienda\MITIENDA.BlazorServer\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
 C:\Users\nessi\Documents\Visual Studio 2019\Projects\PROYECTO TIENDA\MiTienda\MITIENDA.BlazorServer\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
 C:\Users\nessi\Documents\Visual Studio 2019\Projects\PROYECTO TIENDA\MiTienda\MITIENDA.BlazorServer\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
-C:\Users\nessi\Documents\Visual Studio 2019\Projects\PROYECTO TIENDA\MiTienda\MITIENDA.BlazorServer\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
 C:\Users\nessi\Documents\Visual Studio 2019\Projects\PROYECTO TIENDA\MiTienda\MITIENDA.BlazorServer\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
 C:\Users\nessi\Documents\Visual Studio 2019\Projects\PROYECTO TIENDA\MiTienda\MITIENDA.BlazorServer\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
 C:\Users\nessi\Documents\Visual Studio 2019\Projects\PROYECTO TIENDA\MiTienda\MITIENDA.BlazorServer\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
@@ -56,3 +54,5 @@ C:\Users\nessi\Documents\Visual Studio 2019\Projects\PROYECTO TIENDA\MiTienda\MI
 C:\Users\nessi\Documents\Visual Studio 2019\Projects\PROYECTO TIENDA\MiTienda\MITIENDA.BlazorServer\obj\Debug\net5.0\MITIENDA.BlazorServer.pdb
 C:\Users\nessi\Documents\Visual Studio 2019\Projects\PROYECTO TIENDA\MiTienda\MITIENDA.BlazorServer\obj\Debug\net5.0\MITIENDA.BlazorServer.genruntimeconfig.cache
 C:\Users\nessi\Documents\Visual Studio 2019\Projects\PROYECTO TIENDA\MiTienda\MITIENDA.BlazorServer\obj\Debug\net5.0\MITIENDA.BlazorServer.csproj.CopyComplete
+C:\Users\nessi\Documents\Visual Studio 2019\Projects\PROYECTO TIENDA\MiTienda\MITIENDA.BlazorServer\obj\Debug\net5.0\RazorDeclaration\Shared\PathNotFound.razor.g.cs
+C:\Users\nessi\Documents\Visual Studio 2019\Projects\PROYECTO TIENDA\MiTienda\MITIENDA.BlazorServer\obj\Debug\net5.0\Razor\Shared\PathNotFound.razor.g.cs

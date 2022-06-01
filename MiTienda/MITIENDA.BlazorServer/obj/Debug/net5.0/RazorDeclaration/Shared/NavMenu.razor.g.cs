@@ -90,7 +90,7 @@ using MITIENDA.BlazorServer.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 28 "C:\Users\nessi\Documents\Visual Studio 2019\Projects\PROYECTO TIENDA\MiTienda\MITIENDA.BlazorServer\Shared\NavMenu.razor"
+#line 58 "C:\Users\nessi\Documents\Visual Studio 2019\Projects\PROYECTO TIENDA\MiTienda\MITIENDA.BlazorServer\Shared\NavMenu.razor"
        
     private bool collapseNavMenu = true;
 
