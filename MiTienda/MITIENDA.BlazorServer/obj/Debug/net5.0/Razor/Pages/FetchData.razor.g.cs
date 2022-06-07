@@ -80,6 +80,27 @@ using MITIENDA.BlazorServer.Shared;
 #line hidden
 #nullable disable
 #nullable restore
+#line 12 "C:\Users\nessi\Documents\Visual Studio 2019\Projects\PROYECTO TIENDA\MiTienda\MITIENDA.BlazorServer\_Imports.razor"
+using MITIENDA.BlazorServer.Data.Services;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 13 "C:\Users\nessi\Documents\Visual Studio 2019\Projects\PROYECTO TIENDA\MiTienda\MITIENDA.BlazorServer\_Imports.razor"
+using MITIENDA.BlazorServer.Data.Models;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 16 "C:\Users\nessi\Documents\Visual Studio 2019\Projects\PROYECTO TIENDA\MiTienda\MITIENDA.BlazorServer\_Imports.razor"
+using CurrieTechnologies.Razor.SweetAlert2;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
 #line 3 "C:\Users\nessi\Documents\Visual Studio 2019\Projects\PROYECTO TIENDA\MiTienda\MITIENDA.BlazorServer\Pages\FetchData.razor"
 using MITIENDA.BlazorServer.Data;
 

@@ -1,3 +1,4 @@
 ﻿<StaticWebAssets Version="1.0">
   <ContentRoot BasePath="/" Path="C:\Users\nessi\Documents\Visual Studio 2019\Projects\PROYECTO TIENDA\MiTienda\MITIENDA.BlazorServer\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="_content/CurrieTechnologies.Razor.SweetAlert2" Path="C:\Users\nessi\.nuget\packages\currietechnologies.razor.sweetalert2\5.2.1\build\..\staticwebassets\" />
 </StaticWebAssets>

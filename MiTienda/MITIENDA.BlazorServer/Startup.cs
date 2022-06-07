@@ -7,10 +7,12 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using MITIENDA.BlazorServer.Data;
+using MITIENDA.BlazorServer.Data.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using CurrieTechnologies.Razor.SweetAlert2;
 
 namespace MITIENDA.BlazorServer
 {
@@ -35,6 +37,11 @@ namespace MITIENDA.BlazorServer
             options.UseSqlServer(Configuration.GetConnectionString("MiTiendaDbContext")),
             ServiceLifetime.Transient);
             services.AddTransient<MiTiendaDbContext>();
+            services.AddTransient<RolesService>();
+            services.AddTransient<UsuariosService>();
+
+
+            services.AddSweetAlert2();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
